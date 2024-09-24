@@ -1,0 +1,37 @@
+2023-11-06 23:27:24.313 [main] INFO  org.example.Main - Start of Execution
+2023-11-06 23:27:37.451 [main] INFO  org.example.Main - End of Execution
+2023-11-06 23:28:59.773 [main] INFO  org.example.Main - Start of Execution
+2023-11-06 23:29:12.353 [main] INFO  org.example.Main - Start op: Division
+2023-11-06 23:29:12.354 [main] INFO  org.example.Main - End op: Division
+2023-11-06 23:29:21.832 [main] INFO  org.example.Main - End of Execution
+2023-11-07 00:00:20.206 [main] INFO  org.example.Main - Start op: Multiplication
+2023-11-07 00:00:20.208 [main] INFO  org.example.Main - End op: Multiplication
+2023-11-07 00:00:20.209 [main] INFO  org.example.Main - Start op: Addition
+2023-11-07 00:00:20.209 [main] INFO  org.example.Main - End op: Addition
+2023-11-07 00:00:20.210 [main] INFO  org.example.Main - Start op: Division
+2023-11-07 00:00:20.210 [main] WARN  org.example.Main - Invalid input
+2023-11-07 00:00:20.210 [main] INFO  org.example.Main - End op: Division
+2023-11-07 00:00:20.215 [main] INFO  org.example.Main - Start op: Division
+2023-11-07 00:00:20.215 [main] INFO  org.example.Main - End op: Division
+2023-11-07 00:00:20.215 [main] INFO  org.example.Main - Start op: Subtraction
+2023-11-07 00:00:20.215 [main] INFO  org.example.Main - End op: Subtraction
+2023-11-07 00:01:50.264 [main] INFO  org.example.Main - Start op: Multiplication
+2023-11-07 00:01:50.267 [main] INFO  org.example.Main - End op: Multiplication
+2023-11-07 00:01:50.268 [main] INFO  org.example.Main - Start op: Addition
+2023-11-07 00:01:50.268 [main] INFO  org.example.Main - End op: Addition
+2023-11-07 00:01:50.269 [main] INFO  org.example.Main - Start op: Division
+2023-11-07 00:01:50.269 [main] WARN  org.example.Main - Invalid input
+2023-11-07 00:01:50.269 [main] INFO  org.example.Main - End op: Division
+2023-11-07 00:01:50.274 [main] INFO  org.example.Main - Start op: Division
+2023-11-07 00:01:50.274 [main] INFO  org.example.Main - End op: Division
+2023-11-07 00:01:50.275 [main] INFO  org.example.Main - Start op: Subtraction
+2023-11-07 00:01:50.275 [main] INFO  org.example.Main - End op: Subtraction
+2023-11-07 00:02:08.134 [main] INFO  org.example.Main - Start op: Multiplication
+2023-11-07 00:02:08.136 [main] INFO  org.example.Main - End op: Multiplication
+2023-11-07 00:02:08.137 [main] INFO  org.example.Main - Start op: Addition
+2023-11-07 00:02:08.137 [main] INFO  org.example.Main - End op: Addition
+2023-11-07 00:02:08.138 [main] INFO  org.example.Main - Start op: Division
+2023-11-07 00:02:08.138 [main] INFO  org.example.Main - End op: Division
+2023-11-07 00:02:08.138 [main] INFO  org.example.Main - Start op: Subtraction
+2023-11-07 00:02:08.138 [main] INFO  org.example.Main - End op: Subtraction
+//comment
